@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: index-v1
+  namespace: sanby
+data:
+  index.html: |
+    Hello Nginx ! <br>
+    2024 05 16
+    configmap   default.conf <br>
+    2024 07 12 QQAAAA

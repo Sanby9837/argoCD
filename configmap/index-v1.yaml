@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: index-v1
-  namespace: sanby2
+  namespace: sanby
 data:
   index.html: |
     Hello Nginx ! <br>

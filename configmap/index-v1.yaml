@@ -5,7 +5,4 @@ metadata:
   namespace: sanby
 data:
   index.html: |
-    Hello Nginx ! <br>
-    2024 05 16
-    configmap   default.conf <br>
-    2024 07 12 QQAAAA
+    change for argoCD
